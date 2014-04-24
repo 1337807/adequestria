@@ -1,0 +1,7 @@
+http://localhost:4242
+http://localhost:4242/alicorns
+http://localhost:4242/unicorns
+http://localhost:4242/ponies
+http://localhost:4242/pegasi
+http://localhost:4242/dragons
+http://localhost:4242/zebras
